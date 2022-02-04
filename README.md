@@ -1,4 +1,5 @@
 # Trial Assignment
+To ensure that you will be able to accept assignments and submit them, you are asked to submit this fake assignment as a trial for assignment one.
 
 ## Your Task
 
